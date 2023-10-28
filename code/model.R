@@ -1,7 +1,7 @@
 # Author: Can Zhang
 # Date: July 19, 2023
 # Purpose: model used in analysis for 
-#         Zhang et al. (submitted to Nature Communications)
+#         Zhang et al. [(Nat Commun 14, 6867 (2023). https://doi.org/10.1038/s41467-023-42530-w]
 
 # NOTE: this code is a guide for transparency and 
 #       reproducibility and is not able to be run
