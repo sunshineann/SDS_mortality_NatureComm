@@ -1,6 +1,6 @@
 # Mortality risks from a spectrum of causes associated with sand and dust storms in China
 
-Code used for Zhang et al. (submitted to Nature Communications).
+Code used for Zhang et al. [Nat Commun 14, 6867 (2023). https://doi.org/10.1038/s41467-023-42530-w].
 
 ## Contents
 
