@@ -12,7 +12,7 @@ Code used for Zhang et al. (submitted to Nature Communications).
 
 # Overview
 
-This file provides a [sample of the code](code/model.R) used in Zhang et al. (submitted to Nature Communications). This code is intended for transparency and reproducibility and is not able to run.
+This file provides a [sample of the code](code/model.R) used in Zhang et al. (Nat Commun 14, 6867 (2023). https://doi.org/10.1038/s41467-023-42530-w). This code is intended for transparency and reproducibility and is not able to run.
 
 This project uses dataset that involves daily and county-level information on mortality from a spectrum of causes, sand and dust storms (SDS) event exposure, air pollution and meteorological exposure during 2013 and 2018 in 214 Chinese counties.
 
